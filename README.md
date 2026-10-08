@@ -1,8 +1,10 @@
 # Nmap Evidence Report
 
+<p><img src="assets/0xfarag-logo.png" alt="0xFarag" width="100"></p>
+
 **Local XML in. Traceable service inventory out.**
 
-A small, offline Python CLI for turning Nmap XML into Markdown or JSON. It retains observed port states and service detection information without presenting an open port or version banner as a confirmed vulnerability. Prepared for Nasser Aldin Farag's portfolio with AI assistance.
+A small, offline Python CLI for turning Nmap XML into Markdown or JSON. It retains observed port states and service detection information without presenting an open port or version banner as a confirmed vulnerability. Part of Nasser Aldin Farag's security portfolio.
 
 ## Quick start
 
