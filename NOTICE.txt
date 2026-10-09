@@ -1,0 +1,14 @@
+Copyright © 2026 Nasser Aldin Farag (0xFarag).
+
+Rights legally held by Nasser Aldin Farag in his own protectable contributions
+remain reserved to him, subject to the permissions already granted.
+
+This notice supplements the accompanying MIT LICENSE. All permissions granted
+under that licence remain in force; this notice does not restrict or revoke them.
+
+Permission to use code does not itself authorise a claim of sponsorship or
+endorsement. Rights in personal branding are subject to applicable law and
+permissions already granted. Separately applicable licences and mandatory
+notices remain in force. Lawful descriptive uses remain unaffected.
+
+Permissions and licensing: https://github.com/0xFarag
