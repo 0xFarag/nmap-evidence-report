@@ -59,3 +59,7 @@ Das Werkzeug unterstützt die saubere Dokumentation vorhandener Nmap-Ergebnisse.
 - [Python XML processing and security considerations](https://docs.python.org/3.12/library/xml.html)
 
 Code: MIT License. Nmap is a separate project; this utility is not affiliated with it.
+
+## Rights and permissions
+
+Copyright © 2026 Nasser Aldin Farag (0xFarag). Rights in his own protectable contributions remain reserved, subject to permissions already granted. The existing [MIT LICENSE](LICENSE) remains in force. [Owner notice](NOTICE.txt) · [Personal branding and AuthzLedger rights](https://github.com/0xFarag/0xFarag/blob/main/AUTHZLEDGER_RIGHTS.md).
